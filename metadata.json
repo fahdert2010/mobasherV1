@@ -1,0 +1,6 @@
+{
+  "name": "MubasherStream QNAP Hub",
+  "description": "Interactive QNAP migration assistant, docker-compose generator, and technical documentation workbench for MubasherStream.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
